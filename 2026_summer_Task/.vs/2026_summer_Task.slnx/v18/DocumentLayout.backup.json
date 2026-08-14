@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sunsk\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\Task\\2026_summer_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{253DD923-76AD-422C-8DF6-A5E089525631}|2026_summer_Task.vcxproj|C:\\Users\\sunsk\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\Task\\2026_summer_Task\\summer_Task_2_\u677E\u5CA1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{253DD923-76AD-422C-8DF6-A5E089525631}|2026_summer_Task.vcxproj|solutionrelative:summer_Task_2_\u677E\u5CA1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "summer_Task_2_\u677E\u5CA1.cpp",
+              "DocumentMoniker": "C:\\Users\\sunsk\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\Task\\2026_summer_Task\\summer_Task_2_\u677E\u5CA1.cpp",
+              "RelativeDocumentMoniker": "summer_Task_2_\u677E\u5CA1.cpp",
+              "ToolTip": "C:\\Users\\sunsk\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\Task\\2026_summer_Task\\summer_Task_2_\u677E\u5CA1.cpp",
+              "RelativeToolTip": "summer_Task_2_\u677E\u5CA1.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-09T12:07:09.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
